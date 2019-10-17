@@ -8,7 +8,7 @@ output:
 ---
 
 # This is Jeff's awesome website
-
+you can learn about me [here](about.rmd)
 ![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
 
 ## Lets add some links
@@ -18,6 +18,6 @@ I often use [google](google.com) to do data science
 
 ## lets add an image
 
-here's my nephew 
+heres my nephew 
 
 ![](IMG_0029.jpg)
